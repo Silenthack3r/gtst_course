@@ -1,0 +1,33 @@
+# Topics 
+- regular expressions
+- Else if 
+- loops 
+- functions
+- bash and linux shell
+# Regular Expressions/regex/
+- most filter validation in any platform done by regex.
+- They are patterns that helps to filter so texts, space, tabs & symbols.
+- Like telegram or other platforms filtering links inside group, filtering some bad words.. All r regex.
+- Regex is Pattern.
+- regex are used on linux tools called grep awk and sed.
+- Patterns such as "slash n" are called meta characters.
+## meta characters
+- those are regex patters symbols for filter.
+- ### Dot(.)
+	- used to get all the line exept new linws
+	- syntax: .
+		- this means give me all lines except new lines.
+- ### Caret(^)
+	- Used to get line that start with pattern
+	- syntax: ^hello
+		- that begins with hello
+- ### Dollar sign($)
+	- used to get line that end eith pattern
+	- syntax: hello$
+		- that ends with hello
+- ### Plus(+)
+	- Used to get line that have pattern that occurs 1 and more times.
+	- syntax: hellos+
+		- a text that
+- Asteriks( * ) 
+	- 
